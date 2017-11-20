@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CrossControler\CrossController.cs" />
+     <Compile Include="Assets\Scripts\FPS Character Script\FixBoard.cs" />
      <Compile Include="Assets\Scripts\FPS Character Script\FPSController.cs" />
      <Compile Include="Assets\Scripts\FPS Character Script\FPSPlayerAnimations.cs" />
      <Compile Include="Assets\Scripts\FPS Character Script\FPSShootingController.cs" />

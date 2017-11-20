@@ -4,13 +4,13 @@ Multi player shooting game
 
 This is a multi Player Shooting game build by Unity.
 
-The TESTER can be open to Play.
+The Game can be open to Play. (It is for Mac OS, so other user can open unity and rebuild)
 
-control the rotation by mouse and move by WASD.
+control the rotation by mouse and movement by WASD.
 
 Shooting with mouse Click.
 
-First Player need to create the host others can join the game.
+First Player need to create the host others can join the game.(it can be host over internet)
 
 R-Reload
 C-Crouching

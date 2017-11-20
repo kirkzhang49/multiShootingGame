@@ -12,7 +12,7 @@ public class FPSShootingController : NetworkBehaviour {
 	[SerializeField]
 	private GameObject concrete_impact,blood_Impact;
 
-	public float damageAmount = 5f;
+	public float damageAmount = 15f;
 
 	// Use this for initialization
 	void Start () {
