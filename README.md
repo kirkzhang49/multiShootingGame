@@ -11,3 +11,11 @@ control the rotation by mouse and move by WASD.
 Shooting with mouse Click.
 
 First Player need to create the host others can join the game.
+
+R-Reload
+C-Crouching
+Space - Jump
+
+Individual project:
+ZHENGKAI ZHANG
+
