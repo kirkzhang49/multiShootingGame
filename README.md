@@ -15,7 +15,10 @@ First Player need to create the host others can join the game.(it can be host ov
 R-Reload
 C-Crouching
 Space - Jump
-
+Change weapons:
+1: deagle
+2: ak47
+3: m4a1
 Individual project:
 ZHENGKAI ZHANG
 
